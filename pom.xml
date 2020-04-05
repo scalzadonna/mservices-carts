@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>carts</name>
-    <description>Carts service for microservices-demo application</description>
+    <description>Carts service for microservices-demo in Jenkis</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
